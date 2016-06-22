@@ -1,7 +1,7 @@
 import scripts from './helpers/scripts';
 const Realm = require('realm');
 import remoteSync from './helpers/remoteSync'
-import sync from './helpers/sync';
+import sync from './helpers/Sync';
 import usnHandler from './helpers/usnHandler';
 
 
